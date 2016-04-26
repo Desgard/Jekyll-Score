@@ -1,0 +1,21 @@
+---
+layout: post
+title: Bookln
+date: 2016-03-10 16:22:38.000000000 +09:00
+---
+`10th Mar 2016`
+
+<p><img src="assets/icons/round_corner_bookln.png" alt="image" width="130px"></p>
+
+书链（Bookln）是一款提供书籍配套资源的在线学习英语的APP，可以通过扫描书籍内的二维码或图片即可获取相关视频、音频、图文、评测等数字化资源。让书籍更加生动、阅读更加高效。
+
+Bookln can provide a book supporting resources online to learn English APP, you can get to the video, audio, graphics, and other digital resources evaluation by scanning books within the two-dimensional code or image. Make books more vivid, more efficient reading.
+
+<center>
+<h1>
+<a href="http://www.bookln.cn/" class="fa fa-apple"></a>
+<a href="http://www.bookln.cn/" class="fa fa-android"></a>
+</h1>
+</center>
+
+
