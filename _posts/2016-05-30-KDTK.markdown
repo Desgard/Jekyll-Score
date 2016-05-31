@@ -1,0 +1,19 @@
+---
+layout: post
+title: KDTK
+date: 2016-03-10 16:22:38.000000000 +09:00
+---
+`25th Mar 2016`
+
+<p><img src="assets/icons/KDTK.png" alt="image" width="130px"></p>
+
+口袋题库是一款针对考研学生的移动端智能化学习软件。覆盖考研公共课及其部分统考专业课。每个科目提供大量优质的题库、重难点知识点讲解、历年真题模考以及微课程等学习内容。
+
+KDTK(Pocket Exam) for postgraduate students is a mobile intelligent terminal learning software. Kaoyan public courses covering its partial examination courses. Each subject to provide a lot of quality exam, heavy and difficult to explain knowledge, years Zhenti mold test and micro courses learning content.
+
+<center>
+<h1>
+<a href="https://itunes.apple.com/us/app/kou-dai-ti-ku-kao-yan-kao/id927291424?mt=8" class="fa fa-apple"></a>
+<a href="http://www.koudaitiku.cn/" class="fa fa-android"></a>
+</h1>
+</center>
