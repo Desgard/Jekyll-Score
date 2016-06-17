@@ -4,6 +4,8 @@ title: Contact Gua
 date: 2016-02-13 02:34:03.000000000 +08:00
 ---
 
+<p><img src="assets/images/photo.jpg" alt="image" width="200px" style="border-radius: 15px 15px 15px 15px;"></p>
+
 大家好，我是Gua。
 
 一般线上的ID为Desgard_Duan，这个ID一般活跃在[github](https://github.com/dgytdhy)、[stackoverflow](https://stackoverflow.com/users/6119149/desgard-duan)上，也会用于各大评论社区。
