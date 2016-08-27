@@ -14,12 +14,12 @@ date: 2016-02-13 02:34:03.000000000 +08:00
 
 苹果砸到瓜的头上，开了花。❀
 
-<div class="github-card" data-user="dgytdhy" data-width=100% data-height=""></div>
+<div class="github-card" data-user="desgard" data-width=100% data-height=""></div>
 
 <center>
 
 <h1>
-<a href="https://github.com/dgytdhy" class="fa fa-github"></a>
+<a href="https://github.com/desgard" class="fa fa-github"></a>
 <a href="http://weibo.com/desgard/" class="fa fa-weibo"></a>
 <a href="mailto:gua@desgard.com" class="fa fa-envelope"></a>
 </h1>
