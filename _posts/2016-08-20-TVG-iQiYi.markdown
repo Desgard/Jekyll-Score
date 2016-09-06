@@ -1,0 +1,19 @@
+---
+layout: post
+title: KDTK
+date: 2016-08-20 16:22:38.000000000 +09:00
+---
+`20th Aug 2016`
+
+<p><img src="assets/icons/TVG.png" alt="image" width="130px"></p>
+
+智能化的电视硬件工具操作简单让你随时随地的一键搜索最全的电视资讯，不用寻找遥控器就能轻松的搞定的自己的电视台切换。
+
+Intelligent TV hardware tools that let you anytime, anywhere simple one-click search the most comprehensive TV information, do not look for the remote control you can easily get their own television stations to switch.
+
+<center>
+<h1>
+<a href="http://app.iqiyi.com/tv/player/" class="fa fa-apple"></a>
+<a href="http://app.iqiyi.com/tv/player/" class="fa fa-android"></a>
+</h1>
+</center>
