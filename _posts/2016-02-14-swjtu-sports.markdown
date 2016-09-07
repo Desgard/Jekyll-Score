@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Swjtu Physical Education Sports Client For Teacher
+title: 西南交通大学体育教学客户端
 date: 2016-02-14 15:22:38.000000000 +09:00
 ---
 `1th Dec 2015`
