@@ -1,4 +1,4 @@
-# JekyllScroll
+# Gua-JekyllScroll
 
 ### Live Demo
 
