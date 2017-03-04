@@ -1,4 +1,4 @@
-# JekyllScroll
+# Gua-JekyllScroll
 
 ### Live Demo
 
@@ -13,5 +13,4 @@ I prefer to static site.
 
 ### License
 
-MIT. See LICENSE file for details.
 # Jekyll-Score
